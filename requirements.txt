@@ -3,4 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
-opencv-python>=4.0,<5.0
+
