@@ -26,8 +26,12 @@ def run():
         page_icon="👋",
     )
     st.write("# :balloon: CV Activity 1")
+    
+
 
     st.title("Image Transformation ")
+    
+    st.write("Name : Prachi Jadhav (0120200180)")
 
     # Upload an image
     uploaded_image = st.file_uploader("Upload an image", type=["jpg", "png", "jpeg"])
